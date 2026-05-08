@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.5](https://github.com/eliottvincent/bay/compare/v1.2.4...v1.2.5) (2026-05-08)
+
+### Improvements
+
+- Open links in new tab
+
 ### [1.2.4](https://github.com/eliottvincent/bay/compare/v1.2.3...v1.2.4) (2026-04-19)
 
 ### Improvements
