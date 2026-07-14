@@ -2,11 +2,11 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: Marie Kim Aviles
-description: Personal Research Page for Marie Kim Aviles.
+description: Bay is a minimal Jekyll Theme.
 baseurl: "/bay"
-url: "https://mariekimaviles.github.io"
+url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: ""
+google_analytics: "UA-121636368-3"
 
 header:
   pages:
