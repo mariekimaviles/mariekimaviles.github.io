@@ -3,7 +3,7 @@
 
 title: Marie Kim Aviles
 description: Personal Research Page for Marie Kim Aviles.
-baseurl: "/home"
+baseurl: "/"
 url: "https://mariekimaviles.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: ""
