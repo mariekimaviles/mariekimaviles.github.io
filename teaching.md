@@ -7,11 +7,10 @@ permalink: /teaching/
 <h1>Teaching</h1>
 
 <p>
-  This page is a placeholder for courses, mentoring, and teaching materials.
+  I have taught, tutored, or coached to some degree and level since high school. I enjoy guiding students towards deeper understanding of the ideas and motivations behind problems, etc.
 </p>
 
 <h2>Courses</h2>
-<p>Coming soon.</p>
-
-<h2>Office Hours</h2>
-<p>Coming soon.</p>
+<h3>UIC</h3>
+<p>IPHS 454: Quantitative Methods I (Fall 2025)</p>
+<p>IPHS 455: Quantitative Methods II (Spring 2026)</p>
