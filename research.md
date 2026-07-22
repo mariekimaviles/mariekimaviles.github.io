@@ -7,7 +7,7 @@ permalink: /research/
 <h1>Research</h1>
 
 <p>
-  My current research interests include network analysis, infectious disease transmission, and statistical genomics, although I intend on starting graduate school with a fairly open mind. Previously, I have worked on both quantitative and qualitative research in clinical science.
+  My current research interests include network analysis, infectious disease transmission, and statistical genomics, although I intend on starting graduate school with a fairly open mind. Previously, I have worked in both quantitative and qualitative research in clinical science.
 </p>
 
 <h2>Publications</h2>
