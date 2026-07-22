@@ -11,6 +11,6 @@ permalink: /teaching/
 </p>
 
 <h2>Courses</h2>
-<h3>UIC</h3>
+<h3>University of Illinois Chicago</h3>
 <p>IPHS 454: Quantitative Methods I (Fall 2025)</p>
 <p>IPHS 455: Quantitative Methods II (Spring 2026)</p>
