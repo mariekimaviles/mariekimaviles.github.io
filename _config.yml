@@ -33,12 +33,12 @@ footer:
     # - type: facebook
     #   name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: https://www.linkedin.com/in/marie-kim-a-4bb266213/
-    - type: github
-      name: GitHub
-      link: http://github.com/mariekimaviles/
+    # - type: linkedin
+    #   name: LinkedIn
+    #   link: https://www.linkedin.com/in/marie-kim-a-4bb266213/
+    # - type: github
+    #   name: GitHub
+    #   link: http://github.com/mariekimaviles/
     # - type: dribbble
     #   name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
