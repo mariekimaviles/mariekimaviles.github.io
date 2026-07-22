@@ -7,7 +7,7 @@ permalink: /teaching/
 <h1>Teaching</h1>
 
 <p>
-  I have taught, tutored, or coached to some degree and level since high school. I enjoy guiding students towards deeper understanding of the ideas and motivations behind problems, etc.
+  I have taught, tutored, or coached to some capacity since high school. I enjoy guiding students towards deeper understanding of the ideas and motivations behind problems, etc.
 </p>
 
 <h2>Courses</h2>
