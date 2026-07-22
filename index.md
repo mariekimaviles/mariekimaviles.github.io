@@ -13,5 +13,5 @@ profile_picture:
 </p>
 
 <p>
-  Here is a link to my <a href="https://mariekimaviles.github.io/Academic_Resume.pdf">CV</a> (Updated July 2026).
+  Here is a link to my <a href="https://mariekimaviles.github.io/Academic_Resume.pdf">CV</a> (updated July 2026).
 </p>
